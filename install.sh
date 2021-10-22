@@ -1,5 +1,6 @@
 sudo apt-get update
 sudo apt install git
+sudo apt install python
 
 git clone https://github.com/markpywell/Mining.git  (!!!PUBLIC!!!)
 
