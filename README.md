@@ -1,6 +1,9 @@
 # Mining
 Mining Files - XMRIG
 
+# Make installer file executable
+chmod +x install.sh
+
 Run Dependancies first
 sudo apt-get update
 sudo apt-get install git
